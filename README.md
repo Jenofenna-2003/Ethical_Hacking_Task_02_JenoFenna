@@ -85,27 +85,27 @@ Attempts to identify the operating system using OS fingerprinting.
 ### Screenshot 1 – Nmap Installation
 Screenshots/01_Nmap_Installation.png
 
-![](Screenshots/01_installation.png)
+![](Screenshots/installation.jpeg)
 
 
 ### Screenshot 2 – Nmap Version
 Displays the installed version of Nmap.
 
 
-![](Screenshots/02_version.png)
+![](Screenshots/version.jpeg)
 
 ### Screenshot 3 – Localhost Scan
 Shows the open ports and running services detected on localhost.
 
 
-![](Screenshots/03_scan.png)
+![](Screenshots/scan.jpeg)
 
 
 ### Screenshot 4 – Service Version Detection
 Shows the version details of detected services.
 
 
-![](Screenshots/04_service_version.png)
+![](Screenshots/service_version.jpeg)
 
 
 
@@ -114,7 +114,7 @@ Shows the version details of detected services.
 Shows the operating system identified by Nmap.
 
 
-![](Screenshots/05_os_detection.png)
+![](Screenshots/os_detection.jpeg)
 
 
 # Project Folder Structure
