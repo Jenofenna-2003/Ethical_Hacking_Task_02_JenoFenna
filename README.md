@@ -166,6 +166,6 @@ This task provided practical experience with the Nmap network scanning tool. I l
 
 ## Author
 
-**Stephen J**
+**Jeno Fenna**
 
 **White Band Associates – Ethical Hacking Internship**
